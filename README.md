@@ -26,8 +26,7 @@ Welcome to **GIS and Remote Sensing Python Scripts**, a repository containing a 
 - Digitization and Working with Shapefiles  
 - Projections and Transformations
 
-### 🧪 **Classification Techniques**
-- Supervised Classification using Random Forest  
+### 🧪 **Classification Techniques** 
 - Unsupervised KMeans Classification  
 - Clustering and Visualizing Random Points
 
@@ -68,4 +67,4 @@ The scripts utilize the following Python libraries:
 ## 📂 **How to Use**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/gis-remote-sensing-python-scripts.git
+   git clone https://github.com/Manjar-Alam/gis-remote-sensing-python-scripts.git
